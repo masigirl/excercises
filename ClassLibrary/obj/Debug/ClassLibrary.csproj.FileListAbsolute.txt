@@ -1,0 +1,6 @@
+C:\Users\Masi\source\repos\Excersices\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Masi\source\repos\Excersices\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Masi\source\repos\Excersices\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Masi\source\repos\Excersices\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Masi\source\repos\Excersices\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Masi\source\repos\Excersices\ClassLibrary\obj\Debug\ClassLibrary.pdb

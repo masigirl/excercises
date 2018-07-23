@@ -1,0 +1,10 @@
+C:\Users\Masi\source\repos\Excersices\Excersices\bin\Debug\Excersices.exe.config
+C:\Users\Masi\source\repos\Excersices\Excersices\bin\Debug\Excersices.exe
+C:\Users\Masi\source\repos\Excersices\Excersices\bin\Debug\Excersices.pdb
+C:\Users\Masi\source\repos\Excersices\Excersices\bin\Debug\ClassLibrary.dll
+C:\Users\Masi\source\repos\Excersices\Excersices\bin\Debug\ClassLibrary.pdb
+C:\Users\Masi\source\repos\Excersices\Excersices\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Masi\source\repos\Excersices\Excersices\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Masi\source\repos\Excersices\Excersices\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Masi\source\repos\Excersices\Excersices\obj\Debug\Excersices.exe
+C:\Users\Masi\source\repos\Excersices\Excersices\obj\Debug\Excersices.pdb
