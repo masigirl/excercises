@@ -3,5 +3,4 @@ solution: Main.sln
 mono: none
 dotnet: 2.1.200
 script:
- -dotnet restore
- -dotnet build
+-dotnet restore
