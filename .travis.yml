@@ -5,6 +5,7 @@ dotnet: 2.1.200
 
 install:
 - dotnet restore
+- export FrameworkPathOverride=$(dirname $(which mono))/../lib/mono/4.5/
 
 script:
 - dotnet build
