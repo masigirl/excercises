@@ -3,8 +3,8 @@ solution: Main.sln
 
 install:
 - nuget restore Main.sln
-- nuget install NUnit.Runners -Version 3.8.0 -OutputDirectory testrunner
+- nuget install NUnit.Runners -Version 3.10.1 -OutputDirectory testrunner
 
 script:
   - xbuild /p:Configuration=Release Main.sln
-  - mono ./testrunner/NUnit.Runners.3.8.0/tools/nunit-console.exe ./ClassLibrary.NUnitTests/bin/Release/ClassLibrary.NUnitTests.dll
+  - mono ./testrunner/NUnit.Runners.3.10.1/tools/nunit-console.exe ./ClassLibrary.NUnitTests/bin/Release/ClassLibrary.NUnitTests.dll
