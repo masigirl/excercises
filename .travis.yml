@@ -7,4 +7,4 @@ install:
 
 script:
   - xbuild /p:Configuration=Release Main.sln
-  - ls ./testrunner/NUnit.ConsoleRunner.3.8.0/tools
+  - mono ./testrunner/NUnit.ConsoleRunner.3.8.0/tools/nunit3-console.exe ./ClassLibrary.NUnitTests/bin/Release/ClassLibrary.NUnitTests.dll
